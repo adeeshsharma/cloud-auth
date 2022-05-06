@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://adeeshsharma:devathome44@devstacker.gcnif.mongodb.net/testDB?retryWrites=true&w=majority",
+  "jwtSecret": "12345-67890-09876-54321",
+  "githubToken": "8f3061d41f8c528c5758160461460abfae5f1717"
+}
