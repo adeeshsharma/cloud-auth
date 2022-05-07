@@ -12,7 +12,7 @@ const Dashboard = ({ auth: { user } }) => (
         <b>&nbsp;{user && user.name}</b>!
       </p>
 
-      <Fragment>LOGGIN SUCCESSFUL</Fragment>
+      <Fragment>LOGIN SUCCESSFUL</Fragment>
     </center>
   </Fragment>
 );
