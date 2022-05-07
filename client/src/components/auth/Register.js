@@ -61,7 +61,7 @@ const Register = ({ setAlert, register, isAuthenticated }) => {
       </center>
       <center>
         <p className="lead">
-          <i className="fas fa-user"></i> Create Your DevStacks Account
+          <i className="fas fa-user"></i> Create Your Cloud Account
         </p>
       </center>
       <form className="form" onSubmit={(e) => onSubmit(e)}>
